@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BriefWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="about_name">BriefWeather</string>
+	<string name="about_info">BriefWeather</string>
+	
+	<string name="quit_tip">您确定要退出系统吗？</string>
+	<string name="title">温馨提示</string>
+	<string name="confirm">确  定</string>
+	<string name="cancle">取  消</string>
+	<string name="reg">注  册</string>
+	<string name="about">关  于</string>
+	<string name="back">返  回</string>
+	<string name="tip_open_network">请先开启网络...</string>
+	<string name="login_tip">请登录</string>
+	
+	<string name="booked_tip">您确定要预订本书吗？\n书名：</string>
+	<string name="success_b">预订成功，请线下与发布者联系！\n联系电话：</string>
+	<string name="fail_b">预订失败，请检查！</string>
+	
+	<string name="selled_tip">您确定要转手本书吗？\n书名：</string>
+	<string name="success_s">转手成功，请线下与求购者联系！\n联系电话：</string>
+	<string name="fail_s">转手失败，请检查！</string>
+</resources>
